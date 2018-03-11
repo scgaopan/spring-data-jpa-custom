@@ -1,0 +1,1 @@
+insert into person(id,name,age,address) values (hibernate_sequence.nextval,'高攀',31,'成都');
